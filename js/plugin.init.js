@@ -65,15 +65,3 @@ AOS.init({
     easing: 'ease-in-out-sine',
     duration: 1000
 });
-
-//Nicescroll
-$("body").niceScroll({   
-    cursorcolor:"rgba(108, 117, 125, 0.7)",
-    cursorwidth:"10px",             
-    background:"rgba(0,0,0,0.15)",
-    scrollspeed: 50,
-    mousescrollstep: 50,
-    cursorborder: 0,
-    zindex: 999,
-    horizrailenabled: false,
-});
